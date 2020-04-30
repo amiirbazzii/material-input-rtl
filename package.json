@@ -1,0 +1,19 @@
+{
+  "name": "material-input-rtl",
+  "version": "1.0.0",
+  "description": "rtl materila input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amiirbazzii/material-input-rtl.git"
+  },
+  "author": "amiirbazzii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amiirbazzii/material-input-rtl/issues"
+  },
+  "homepage": "https://github.com/amiirbazzii/material-input-rtl#readme"
+}
